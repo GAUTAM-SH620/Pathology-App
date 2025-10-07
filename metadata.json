@@ -1,0 +1,5 @@
+{
+  "name": "PathoLab Pro",
+  "description": "A comprehensive pathology lab management system for admins to manage patients, reports, and billing, and a portal for patients to securely access their reports.",
+  "requestFramePermissions": []
+}
